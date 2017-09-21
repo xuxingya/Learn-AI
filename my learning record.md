@@ -14,3 +14,8 @@
   
   * [ Deep Learning ] (https://classroom.udacity.com/courses/ud730) (By Google)
 Google's deep learning course on Udacity. I am learning this now, exciting!
+
+ * [ A guide to convolution arithmetic for deep learning ] (https://arxiv.org/pdf/1603.07285v1.pdf) (By Vincent Dumoulin1 and Francesco Visin)
+This guide’s objective is twofold:
+1. Explain the relationship between convolutional layers and transposed con- volutional layers.
+2. Provideanintuitiveunderstandingoftherelationshipbetweeninputshape, kernel shape, zero padding, strides and output shape in convolutional, pooling and transposed convolutional layers.
