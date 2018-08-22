@@ -44,6 +44,7 @@ This guide’s objective is:
    * 2009 [Tour the world: building a web-scale landmark recognition engine](http://vision.lbl.gov/Conferences/cvpr/Papers/data/papers/0551.pdf)
    * 2016 [Ssd: Single shot multibox detector](https://arxiv.org/pdf/1512.02325)
    * 2017 [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861)
+   * 2017 [A Neural Representation of Sketch Drawings](https://arxiv.org/pdf/1704.03477.pdf)
    
 ### Autonomous Driving
    * 2017 [MIT Autonomous Vehicle Technology Study:
