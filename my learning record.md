@@ -12,7 +12,7 @@
   
    Deep Learning Specialization on Coursera. Including <Neural Networks and Deep Learning>, <Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization>, <Structuring Machine Learning Projects>, <Convolutional Neural Networks>, <Sequence Models>.
   
-   * [Deep Learning] (https://classroom.udacity.com/courses/ud730)(By Google)
+   * [Deep Learning](https://classroom.udacity.com/courses/ud730)(By Google)
    
 Google's deep learning course on Udacity
 
@@ -35,7 +35,7 @@ This guide’s objective is:
       
 ### Natural Language Processing
    * 2014 [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882)
-   * 2015 [Visual Landmark Recognition from Internet Photo Collections: A Large-Scale Evaluation](Visual Landmark Recognition from Internet Photo Collections: A Large-Scale Evaluation)
+   * 2015 [Visual Landmark Recognition from Internet Photo Collections: A Large-Scale Evaluation](https://arxiv.org/pdf/1409.5400)
    * 2016 [Smart Reply: Automated Response Suggestion for Email](https://dl.acm.org/ft_gateway.cfm?id=2939801&type=pdf)
    * 2017 [No Need to Pay Attention:Simple Recurrent Neural Networks Work! (for Answering “Simple” Questions)](https://arxiv.org/pdf/1606.05029)
    * 2017 [Convolutional sequence to sequence learning](Convolutional sequence to sequence learning)
