@@ -45,7 +45,7 @@ This guide’s objective is:
    * 2016 [Ssd: Single shot multibox detector](https://arxiv.org/pdf/1512.02325)
    * 2017 [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/pdf/1704.04861)
    
-### Autonomous Drive
+### Autonomous Driving
    * 2017 [MIT Autonomous Vehicle Technology Study:
 Large-Scale Deep Learning Based Analysis of Driver Behavior and Interaction with Automation](https://arxiv.org/pdf/1711.06976)
    * 2017 [Image-to-image translation with conditional adversarial networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Isola_Image-To-Image_Translation_With_CVPR_2017_paper.pdf)
