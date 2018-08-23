@@ -37,6 +37,7 @@ This guide’s objective is:
    * 2018 [Emmanouil Antonios Platanios](https://arxiv.org/pdf/1806.01235)
       
 ### Natural Language Processing
+   * 2014 [Modeling interestingness with deep neural networks](http://www.aclweb.org/anthology/D14-1002)
    * 2014 [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/pdf/1408.5882)
    * 2015 [Visual Landmark Recognition from Internet Photo Collections: A Large-Scale Evaluation](https://arxiv.org/pdf/1409.5400)
    * 2016 [Smart Reply: Automated Response Suggestion for Email](https://dl.acm.org/ft_gateway.cfm?id=2939801&type=pdf)
