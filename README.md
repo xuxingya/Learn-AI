@@ -34,7 +34,7 @@ This guide’s objective is:
    * 2018 [MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/pdf/1805.11973.pdf)
    * 2018 [Breaking-down the Ontology Alignment Task with a Lexical Index and Neural Embeddings](https://arxiv.org/pdf/1805.12402)
    * 2017 [A Knowledge-Grounded Neural Conversation Model](https://arxiv.org/pdf/1702.01932.pdf)
-   * 2018 [Emmanouil Antonios Platanios](https://arxiv.org/pdf/1806.01235)
+   * 2018 [Deep Graphs](https://arxiv.org/pdf/1806.01235)
       
 ### Natural Language Processing
    * 2014 [Modeling interestingness with deep neural networks](http://www.aclweb.org/anthology/D14-1002)
