@@ -63,4 +63,4 @@ Large-Scale Deep Learning Based Analysis of Driver Behavior and Interaction with
    * 2017 [Machine Learning: The Power and Promise of Computers That Learn by Example](https://royalsociety.org/~/media/policy/projects/machine-learning/publications/machine-learning-report.pdf)
    
 ### On Reading
-   * [Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14491/14078)
+   * 2017 [Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14491/14078)
