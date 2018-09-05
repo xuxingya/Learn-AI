@@ -43,6 +43,7 @@ This guide’s objective is:
    * 2016 [Smart Reply: Automated Response Suggestion for Email](https://dl.acm.org/ft_gateway.cfm?id=2939801&type=pdf)
    * 2017 [No Need to Pay Attention:Simple Recurrent Neural Networks Work! (for Answering “Simple” Questions)](https://arxiv.org/pdf/1606.05029)
    * 2017 [Convolutional sequence to sequence learning](https://arxiv.org/pdf/1705.03122g)
+   * 2017 [Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14491/14078)
 ### Computer vision
    * 2003 [Best practices for convolutional neural networks applied to visual document analysis](http://www.cs.cmu.edu/~bhiksha/courses/deeplearning/Fall.2016/pdfs/Simard.pdf)
    * 2009 [Tour the world: building a web-scale landmark recognition engine](http://vision.lbl.gov/Conferences/cvpr/Papers/data/papers/0551.pdf)
@@ -63,4 +64,4 @@ Large-Scale Deep Learning Based Analysis of Driver Behavior and Interaction with
    * 2017 [Machine Learning: The Power and Promise of Computers That Learn by Example](https://royalsociety.org/~/media/policy/projects/machine-learning/publications/machine-learning-report.pdf)
    
 ### On Reading
-   * 2017 [Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions](http://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14491/14078)
+   
